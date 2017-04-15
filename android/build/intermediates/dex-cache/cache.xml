@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/shen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-7f972cdd1b27896ec437348369488ff03fdbd906.jar" />
+    </item>
+    <item
+        jar="/home/shen/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-b25fa7a864a930c82281525b249b9ae0963555ec.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.37.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6682334d34f00764e6753efcd15f060a4b95cda6">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-cd9c1b0e0d4e3c19065d57747cbc43eed397e5e3.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-82f8b029d343c3afeb539ccb10708e793b2648da.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-16bee87fb0d59396d5f4f8c6d0e3e51441af161d.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-fb5e59e282a09d2f80e78807fac6fafadef8855d.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-01ea351f686bda963c662371294eab8432c91c4f.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-569b1d3b25ae2bcd74713e50190a91115c57079f.jar" />
+    </item>
+    <item
+        jar="/home/shen/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-1c4f927c20b6b88360124f3f96fd138ef36b58d4.jar" />
+    </item>
+    <item
+        jar="/home/shen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-0611f0f99ccba09d15b54554f071cc3ff6a59ad8.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-b5ebca1081b269719d654cb8bce5a8b189ef2cbb.jar" />
+    </item>
+    <item
+        jar="/home/shen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-651be9a5fda3e9f5c1996cc632474d251b6dfd65.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-a1df83fbe9bc55a222d6019eca7ae194412055f3.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-82079fa10e56e2492663c1744d3bbcc1edc4e22c.jar" />
+    </item>
+    <item
+        jar="/home/shen/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-ae3072205fcb53df585b623951c43bf3549bb8a9.jar" />
+    </item>
+    <item
+        jar="/home/shen/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-23f13dd925b0d13e4fd410906b06aa5f2845f7f9.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.37.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="731e2c3a475cd3a3cb3536d6c32e72e1ad2ed09e">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-d09df0b015ff80c52905624960a3c9236da2ecec.jar" />
+    </item>
+    <item
+        jar="/home/shen/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-c46aae31b2d2e799b33775a115342d5f80a34638.jar" />
+    </item>
+    <item
+        jar="/home/shen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-01d903beb2718b1b381c6e610f7be66cfbabfd92.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-53fb368f4244b13d5bb887131f35a685b84baf75.jar" />
+    </item>
+    <item
+        jar="/home/shen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-18e2fdd11c6f1b69577ed0a6342118093ab7e574.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-7be728cfd36a57cd67edbcde0ac5526a34b4680c.jar" />
+    </item>
+    <item
+        jar="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/media/shen/DATA/NTU/sophomore/Android apps/TodoList/android/app/build/intermediates/pre-dexed/debug/classes-2eb4683ca2138a6f3fbb01f2042becfc32eadf87.jar" />
+    </item>
+
+</items>
